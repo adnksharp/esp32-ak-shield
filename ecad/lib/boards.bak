@@ -374,13 +374,12 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "boards:ESP32-DEVKIT_CH340C"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://documentation.espressif.com/esp32-wroom-32_datasheet_en.pdf"
@@ -1706,7 +1705,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "ESP32_S3"
+	(symbol "ESP32_S3_CH343p"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1753,7 +1752,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "ESP32_S3_0_1"
+		(symbol "ESP32_S3_CH343p_0_1"
 			(rectangle
 				(start -26.67 30.48)
 				(end 26.67 -30.48)
@@ -1766,7 +1765,7 @@
 				)
 			)
 		)
-		(symbol "ESP32_S3_1_1"
+		(symbol "ESP32_S3_CH343p_1_1"
 			(pin bidirectional line
 				(at -29.21 27.94 0)
 				(length 2.54)

@@ -374,13 +374,12 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "boards:ESP32-DEVKIT_CH340C"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "https://documentation.espressif.com/esp32-wroom-32_datasheet_en.pdf"
