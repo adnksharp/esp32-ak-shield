@@ -1,4 +1,4 @@
-27674795871555362
+27678328462083418
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -109941,3 +109941,17 @@ ESP32-DEVKIT_CH340C
 0
 45
 30
+boards
+ESP32-DEVKIT_CP2102
+
+
+0
+57
+38
+boards
+ESP32-S3-DEVKIT_CH343p
+
+
+0
+66
+44
