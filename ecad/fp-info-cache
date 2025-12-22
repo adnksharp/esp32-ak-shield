@@ -1,4 +1,4 @@
-27678328462083418
+27680095098328681
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -109934,6 +109934,13 @@ Varistor VF
 0
 2
 2
+boards
+ESP32-CAM-DEVKIT
+
+
+0
+45
+30
 boards
 ESP32-DEVKIT_CH340C
 

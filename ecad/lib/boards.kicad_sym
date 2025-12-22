@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "boards:ESP32-CAM-DEVKIT"
 			(at 0 0 0)
 			(effects
 				(font
@@ -977,7 +977,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "boards:ESP32-DEVKIT_CP2102"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1725,7 +1725,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "boards:ESP32-S3-DEVKIT_CH343p"
 			(at 0 0 0)
 			(effects
 				(font
