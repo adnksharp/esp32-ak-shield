@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 3 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e018ea3e-4174-45fb-9cce-4100a5a212f5")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "ESP32-CAM-DEVKIT"
-		(at 0 4.5 0)
+		(at 0 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "45c93548-2d61-4b3c-a9f2-08d04ed6d2df")
