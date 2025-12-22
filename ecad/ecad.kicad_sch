@@ -3,13 +3,181 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "a5f24e88-7373-4c84-afe0-8843cd13fbc2")
-	(paper "A5")
+	(paper "A5" portrait)
 	(title_block
 		(title "ESP32 AK Shield Schematik drawing")
 		(date "2025-12-18")
 		(rev "A")
 	)
 	(lib_symbols)
+	(sheet
+		(at 13.97 16.51)
+		(size 49.53 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6ebb72f1-55fd-4353-b547-1864dbab7f38")
+		(property "Sheetname" "ESP32 CAM"
+			(at 13.97 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32-cam.kicad_sch"
+			(at 13.97 20.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecad"
+				(path "/a5f24e88-7373-4c84-afe0-8843cd13fbc2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 46.99)
+		(size 49.53 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7458ab73-2001-490f-a042-434ec72f9a67")
+		(property "Sheetname" "ESP32 S3"
+			(at 13.97 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32-s3.kicad_sch"
+			(at 13.97 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecad"
+				(path "/a5f24e88-7373-4c84-afe0-8843cd13fbc2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 36.83)
+		(size 49.53 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d4c90e58-200e-44e7-b0ff-ce6a3b577148")
+		(property "Sheetname" "ESP32 CP2102"
+			(at 13.97 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32-cp2102.kicad_sch"
+			(at 13.97 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecad"
+				(path "/a5f24e88-7373-4c84-afe0-8843cd13fbc2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 13.97 26.67)
+		(size 49.53 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e89067c5-2790-4352-91c6-69015867a0ac")
+		(property "Sheetname" "ESP32 CH340"
+			(at 13.97 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "esp32-ch340.kicad_sch"
+			(at 13.97 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ecad"
+				(path "/a5f24e88-7373-4c84-afe0-8843cd13fbc2"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
